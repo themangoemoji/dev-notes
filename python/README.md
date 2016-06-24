@@ -45,3 +45,9 @@ import argparse
 parser = argparse.ArgumentParser()
 args = parser.parse_args()
 ```
+
+### Assignment
+
+In python, you dont need a swap function. You can use:
+
+`a, b = b, a`

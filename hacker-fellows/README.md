@@ -2,7 +2,7 @@
 
 ## Things That Could Improve
 
-### Timeline
+#### Timeline
 
 * What days we have off (4th of July) and how to talk about needed days off
 
@@ -18,7 +18,7 @@
 
   * how long after bootcamp you will usually start working (you work out a start date with your company)
 
-### Bootcamp expectations
+#### Bootcamp expectations
 
 * (Once accepted) - Mediums to contact HackerFellows alumni
 
@@ -26,3 +26,14 @@
 
 * Description of what and where each building is (Grand Circus and Invest Detroit) and on what occasions we will be at either building
 
+## Things That Went Really Well
+
+#### Communication
+
+* Communication/answering questions on short notice
+
+* Email updates were thorough
+
+## New Ideas for 2017
+
+* Pictures of bootcamp/classroom/company prospects posted

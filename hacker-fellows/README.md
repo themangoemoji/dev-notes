@@ -63,3 +63,4 @@
 * (Once accepted) - Mediums to contact HackerFellows alumni
 
 * Sample of an example class format (maybe a fake weekly schedule posted)
+

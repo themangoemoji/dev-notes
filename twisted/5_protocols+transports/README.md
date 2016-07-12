@@ -105,7 +105,7 @@ def dataReceived(self, data):
     msg = 'Task %d: got %d bytes of poetry from %s'
     print  msg % (self.task_num, len(data), self.transport.getPeer())
 ```
-* once a poem has finished downloading, the protocol object notifies its factory with the calls:
+* and then when it has finished downloading, the protocol object notifies its factory with the calls:
 
 ```python
 def connectionLost(self, reason):
@@ -113,7 +113,7 @@ def connectionLost(self, reason):
 
 def poemReceived(self, poem):
     self.factory.poem_finished(self.task_num, poem)
-``
+```
 
 * Handling errors is easier too:
 
@@ -123,3 +123,5 @@ def clientConnectionFailed(self, connector, reason):
     self.poem_finished()
 ```
 
+And thats the waaaaaay the news goes
+![And thats the way the news goes rick & morty](http://images-cdn.moviepilot.com/images/c_limit,h_1149,w_2101/t_mp_quality/xpelltdhcukttijzskar/why-we-won-t-be-seeing-time-travel-in-rick-and-morty-season-3-728543.jpg)

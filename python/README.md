@@ -51,3 +51,8 @@ args = parser.parse_args()
 In python, you dont need a swap function. You can use:
 
 `a, b = b, a`
+
+## Abstract Base Classes
+
+* [ABC Blog Post](https://dbader.org/blog/abstract-base-classes-in-python)
+
